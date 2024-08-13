@@ -1,6 +1,6 @@
 #! /bin/bash
 
-sudo apt update
+# sudo apt update
 
 # run template initialization with azd
 azd init -t azure-search-openai-demo
